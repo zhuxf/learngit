@@ -70,3 +70,4 @@ Android开发需要的sdk、开发用到的工具、设计规范等等下载：h
  1、learning git 02-14
  2、今天看完git这本书。
  3、text.text
+ 4、Creating a new branch is quick.
